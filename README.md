@@ -1,4 +1,4 @@
-# Welcome to KVK Rest API!
+# Welcome to KVK's Rest API POC Assignment!
 
 Hi! I'm Venkat. Here is the sample Rest API POC developed for the assignment.
 
